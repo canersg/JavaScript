@@ -1,3 +1,3 @@
 # JavaScript
-# Purpose of this program shows:
-# Object Orianted JavaScript development approach
+Purpose of this program shows:
+Object Orianted JavaScript development approach
